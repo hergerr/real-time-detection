@@ -1,0 +1,3 @@
+venv/
+.vscode/
+yolov3.weights
