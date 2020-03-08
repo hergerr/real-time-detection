@@ -1,3 +1,6 @@
 venv/
 .vscode/
-yolov3.weights
+cfg/
+img/
+movies/
+weights/
